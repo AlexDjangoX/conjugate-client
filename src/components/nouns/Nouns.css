@@ -1,0 +1,104 @@
+.log-in-prompt-nouns {
+  display: grid;
+  place-content: center;
+  margin: 0.8rem;
+  text-align: center;
+  background: linear-gradient(
+    180deg,
+    rgba(40, 103, 249) 0%,
+    rgb(25, 33, 57) 60%
+  );
+  color: aliceblue;
+  padding: 1rem;
+  border-radius: 8px;
+}
+
+.add-noun-button-wrapper {
+  display: grid;
+  place-content: center;
+  padding: 1rem 0 1rem 0;
+}
+
+.wrapper-list-buttons {
+  display: grid;
+  grid-template-areas: 'radio images';
+  grid-template-columns: 10rem 1fr;
+}
+
+.wrapper-image-list {
+  display: grid;
+  grid-area: images;
+  min-height: calc(100vh - 14rem);
+}
+
+.wrapper-radio-buttons {
+  display: grid;
+  grid-area: radio;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  color: black;
+  background-color: #1e3ffcb6;
+  padding: 1rem 0 0 0.2rem;
+  border: 1px solid rgb(0, 0, 0);
+  box-shadow: 5px 5px 10px #888888, -5px -5px 10px #ffffff;
+  border-radius: 0.6rem;
+}
+
+.unordered-list-nouns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  grid-gap: 1rem;
+}
+
+.list-item-nouns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 0;
+}
+
+.noun-description,
+.noun-image-to-display {
+  display: grid;
+  width: 140px;
+  height: 140px;
+  font-size: 12px;
+  border: 1px solid rgb(102, 102, 102);
+  box-shadow: 5px 5px 10px #888888, -5px -5px 10px #ffffff;
+  border-radius: 0.4rem;
+  padding: 0.4rem;
+}
+
+.short-sentence {
+  background-color: #5b5b5b;
+  color: #ffffff;
+  border: 1px black solid;
+  border-radius: 4px;
+  max-height: 3.5rem;
+  padding: 2px;
+  overflow-y: scroll;
+}
+
+.short-sentence::-webkit-scrollbar {
+  width: 3px;
+  background-color: #ff0000;
+}
+
+.short-sentence::-webkit-scrollbar-thumb {
+  background-color: #000000;
+}
+
+.noun-image-to-display {
+  object-fit: scale-down;
+}
+
+.polish-english-word {
+  text-transform: capitalize;
+
+  margin: -2px;
+}
+
+.noun-buttons {
+  display: grid;
+  grid-auto-flow: column;
+}

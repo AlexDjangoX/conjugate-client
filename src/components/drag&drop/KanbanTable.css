@@ -1,0 +1,54 @@
+.table-wrapper {
+  display: grid;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+th {
+  color: rgb(34, 34, 34);
+}
+
+td {
+  padding: 4px 2px;
+}
+
+.table-wrapper tr {
+  width: 2rem;
+  background-color: rgb(179, 56, 56);
+}
+
+tbody tr:nth-of-type(even) {
+  background-color: #606060;
+}
+
+.card-image-kanban {
+  display: grid;
+  place-content: center;
+  height: auto;
+  width: auto;
+  padding: 0.8rem 0rem;
+}
+
+.masculine {
+  background-color: rgb(131, 131, 249);
+}
+.masculine-alt {
+  background-color: rgb(83, 83, 253);
+}
+
+.feminine {
+  background-color: rgb(255, 85, 113);
+}
+.feminine-alt {
+  background-color: rgb(254, 44, 79);
+}
+
+.neuter {
+  background-color: rgb(255, 191, 0);
+}

@@ -1,0 +1,169 @@
+.btn--wrapper {
+  display: grid;
+  text-align: center;
+  align-items: center;
+}
+
+.btn {
+  padding: 0.4rem 1rem;
+  border-radius: 0.2rem;
+  margin-left: 0.4rem;
+
+  outline: none;
+  border: none;
+  cursor: pointer;
+  height: auto;
+}
+
+.btn--primary {
+  background-color: var(--primary);
+  color: var(--secondary);
+  border: 1px solid var(--primary);
+}
+
+.btn--outline {
+  background-color: transparent;
+  color: var(--primary);
+  border: 1px solid var(--primary);
+  transition: all 0.4s ease-out;
+}
+
+.btn--large {
+  padding: 0.7rem 1.2rem;
+}
+
+.btn--medium:hover,
+.btn--large:hover {
+  background: var(--primary);
+  color: var(--secondary);
+  transition: all 0.4s ease-out;
+}
+
+.btn-login-logout {
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: rgb(255, 56, 56);
+  background-color: white;
+}
+
+.btn--add-new-verb {
+  font-size: 1.2rem;
+  background-color: red;
+  color: white;
+  font-weight: 500;
+  /* margin: 1rem; */
+}
+
+.btn--add-new-verb,
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.btn-login-logout:hover,
+.btn--add-new-verb:hover {
+  color: rgb(255, 0, 0);
+  background-color: rgb(255, 255, 255);
+  transition: all 0.4s ease-out;
+}
+
+.btn-login-logout:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 0, 0);
+  transition: all 0.4s ease-out;
+}
+
+.btn-edit-verb {
+  font-size: 0.6rem;
+  font-weight: 600;
+  height: 1.5rem;
+  background-color: red;
+  color: white;
+}
+
+.btn-edit-verb:hover,
+.btn-delete-verb:hover,
+.btn-delete-confirm:hover,
+.btn-cancel-delete:hover {
+  background-color: white;
+  color: rgb(255, 52, 52);
+}
+
+.btn-delete-verb {
+  font-size: 0.6rem;
+  font-weight: 600;
+  height: 1.5rem;
+  background-color: red;
+  color: white;
+}
+
+.btn-delete-confirm {
+  font-size: 0.6rem;
+  font-weight: 600;
+  height: 1.5rem;
+
+  background-color: rgb(255, 187, 0);
+  color: rgb(0, 0, 0);
+}
+
+.btn-cancel-delete {
+  font-size: 0.6rem;
+  font-weight: 600;
+  height: 1.5rem;
+
+  background-color: rgba(2, 107, 58, 0.593);
+  color: rgb(255, 255, 255);
+}
+
+.btn--translation {
+  font-size: 1.4rem;
+  font-weight: 300;
+
+  background-color: rgb(0, 176, 47);
+  color: rgb(241, 241, 241);
+}
+
+.btn--translation:hover {
+  font-size: 1.4rem;
+  font-weight: 300;
+
+  background-color: rgb(241, 241, 241);
+  color: rgb(4, 130, 0);
+}
+
+/* nouns buttons */
+
+.btn-add-noun {
+}
+
+.btn-delete-noun,
+.btn-edit-noun {
+  font-size: 0.6rem;
+  font-weight: 600;
+  height: 1.5rem;
+  background-color: rgb(255, 64, 0);
+  color: rgb(255, 255, 255);
+  width: 4rem;
+}
+
+.btn-edit-noun {
+  background-color: rgb(0, 98, 255);
+  color: rgb(255, 255, 255);
+}
+
+.btn-add-noun {
+  width: 12rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  color: rgb(255, 56, 56);
+  background-color: white;
+}
+
+.btn-add-noun:hover {
+  color: rgb(255, 255, 255);
+  background-color: rgb(255, 0, 0);
+  transition: all 0.4s ease-out;
+}
+
+.btn-cancel-delete-noun {
+}

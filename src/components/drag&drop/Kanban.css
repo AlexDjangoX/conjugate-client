@@ -1,0 +1,187 @@
+.kanban-wrapper {
+  display: grid;
+  grid-auto-flow: column;
+  place-content: center;
+
+  background-image: url('../../../public/images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  padding-bottom: 3rem;
+}
+
+.kanban-columns {
+  display: grid;
+  align-items: center;
+}
+
+@media screen and (max-width: 1100px) {
+  .kanban-wrapper {
+    grid-auto-flow: row;
+    grid-template-areas:
+      'one two three '
+      '. four .  ';
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .kanban-wrapper {
+    grid-auto-flow: row;
+    grid-template-areas:
+      'one two  '
+      '. .   ';
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .kanban-wrapper {
+    grid-auto-flow: row;
+
+    grid-template-areas:
+      'one'
+      'two'
+      'three'
+      'four';
+  }
+}
+
+.new-verb-button-wrapper {
+  display: grid;
+  grid-template-areas: 'prompt' 'buttons';
+  grid-auto-flow: column;
+  place-content: center;
+  padding: 1rem 0 1rem 0;
+}
+
+.link a {
+  text-decoration: none;
+}
+
+.kanban-log-in-prompt {
+  display: grid;
+  grid-area: prompt;
+  background: linear-gradient(
+    180deg,
+    rgba(40, 103, 249) 0%,
+    rgb(25, 33, 57) 60%
+  );
+  color: aliceblue;
+  padding: 0 1rem 0 1rem;
+  border-radius: 8px;
+
+  text-align: center;
+}
+
+.new-verb-buttons {
+  display: grid;
+  grid-area: buttons;
+  grid-auto-flow: column;
+}
+
+.kanban-header {
+  display: grid;
+  place-content: center;
+  font-weight: 300;
+  margin: 0;
+}
+
+.kanban-search-wrapper {
+  display: grid;
+  place-content: center;
+  font-weight: 400;
+}
+
+.kanban-search {
+  font-size: 1.2rem;
+}
+
+.kanban-droppable {
+  padding: 8px;
+  width: 280px;
+  height: 82vh;
+  overflow-y: auto;
+}
+
+.kanban-draggable {
+  user-select: none;
+  margin: 0 0 0.5rem 0;
+}
+
+.kanban-search-input {
+  display: grid;
+  place-content: center;
+  margin-bottom: 1rem;
+  position: sticky;
+}
+
+.card-item-case-aspect {
+  display: grid;
+  place-content: center;
+  padding: 0.2rem;
+  border: 1px solid rgb(61, 61, 61);
+  border-radius: 4px;
+}
+
+.card-item-content {
+  position: relative;
+  padding: 0.5rem 1rem;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.31);
+  background-color: rgb(122, 122, 122);
+}
+
+.card-item-tag {
+  color: rgb(213, 235, 255);
+  font-size: 1rem;
+  letter-spacing: 0.2rem;
+  position: absolute;
+  top: 0.2rem;
+  left: 0.2rem;
+  text-transform: uppercase;
+  padding: 0.1rem;
+  margin: 0.2rem;
+}
+
+.card-item-content p {
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 1rem;
+}
+
+.card-item-content a {
+  color: #333;
+  text-decoration: none;
+  font-size: 1.2rem;
+  margin-top: 3rem;
+}
+
+.card-item-content button {
+  position: absolute;
+  top: 2.5rem;
+  right: 0.4rem;
+  margin-top: 0.6rem;
+}
+
+.btn-cancel-delete {
+  position: absolute;
+  top: 1.4rem;
+  right: 0rem;
+  margin-top: 0.6rem;
+}
+
+.link-notes,
+Link {
+  display: grid;
+  place-content: center;
+  font-family: inherit;
+  cursor: default;
+  background-color: rgb(119, 37, 37);
+  border: 1px black;
+  border-radius: 0.2rem;
+  padding: 0.2rem;
+}
+
+.link-notes:hover {
+  background-color: rgb(206, 23, 23);
+  font-size: 1.4;
+  transition: all 2s;
+}

@@ -1,0 +1,132 @@
+.navbar {
+  background: linear-gradient(
+    90deg,
+    rgba(40, 103, 249) 0%,
+    rgb(25, 33, 57) 60%
+  );
+}
+
+.navbar-container {
+  display: grid;
+  grid-template-areas: 'left-nav middle-nav right-nav .';
+  grid-template-columns: 4fr 12fr 12fr 2rem;
+  grid-template-rows: 7rem;
+}
+
+.navbar-logo {
+  display: grid;
+  grid-area: left-nav;
+  grid-template-areas: 'flag alphabet';
+  grid-template-columns: 2;
+  padding: 1rem;
+  color: var(--primary);
+  align-items: center;
+}
+
+.navbar-flag-icon {
+  background: url('../../../public/images/flag_icon.jpg');
+  height: 5rem;
+  width: 5rem;
+  margin-right: 1rem;
+  background-position: 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar-alphabet-icon {
+  background: url('../../../public/images/alphabet_icon.jpg');
+  height: 5rem;
+  width: 5rem;
+
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar-logo:active {
+  color: rgb(128, 128, 128);
+  font-size: 1.2rem;
+}
+
+.links {
+  display: grid;
+  grid-area: right-nav;
+  justify-content: end;
+  grid-template-columns: repeat(5, 8rem);
+  padding-bottom: 0.4rem;
+}
+
+.navbar-menu-icon {
+  display: grid;
+  grid-area: right-nav;
+  align-items: center;
+  justify-content: end;
+  color: var(--primary);
+}
+
+.navbar-list-item {
+  display: grid;
+  list-style: none;
+  text-align: center;
+  align-items: center;
+}
+
+.nav-menu-active {
+  display: none;
+}
+
+.nav-menu-inactive {
+  display: grid;
+  /* justify-content: end; */
+}
+
+.navbar-link {
+  text-decoration: none;
+  color: rgb(255, 56, 56);
+  font-size: 1.4rem;
+  font-weight: 300;
+  background-color: white;
+  margin: 4px;
+  padding: 6px;
+  border-radius: 4px;
+}
+
+.navbar-link:hover {
+  color: rgb(249, 246, 246);
+  background-color: red;
+  font-weight: 400;
+  transition: all 0.2s ease-out;
+}
+
+/* Component - NavbarMobileScreen.js */
+
+.drop-down {
+  position: relative;
+  z-index: 10;
+}
+
+.navbar-menu-wrapper {
+  position: absolute;
+  top: 0rem;
+  height: calc(100vh - 7rem);
+  width: 100vw;
+  background-color: rgba(31, 31, 31, 0.499);
+}
+
+.navbar-menu-link {
+  display: grid;
+  align-content: space-evenly;
+  justify-content: center;
+  text-decoration: none;
+  color: var(--primary);
+  font-size: 1.8rem;
+  font-weight: 300;
+  background-color: black;
+}
+
+.navbar-menu-item {
+  display: grid;
+  grid-template-rows: 4rem;
+  border: 1px solid var(--primary);
+  list-style: none;
+}

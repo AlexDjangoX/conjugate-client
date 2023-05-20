@@ -1,0 +1,298 @@
+.notes-wrapper {
+  background-image: url('../../../public/images/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.polish-word-list {
+  display: grid;
+  grid-template-columns: repeat(3, 10rem);
+  grid-gap: 0.6rem;
+  place-content: space-around;
+  border: 2px solid rgb(255, 255, 255);
+  border-radius: 1rem;
+}
+
+.wrapper-present {
+  background-color: rgb(3, 115, 83);
+  color: rgb(255, 255, 255);
+  border-radius: 1rem;
+}
+
+.wrapper-past-masculine,
+.wrapper-future-masculine,
+.wrapper-conditional-masculine {
+  background-color: rgb(25, 44, 172);
+
+  color: rgb(255, 255, 255);
+  border-radius: 1rem;
+}
+
+.wrapper-past-feminine,
+.wrapper-future-feminine,
+.wrapper-conditional-feminine {
+  background-color: rgb(205, 65, 84);
+  color: rgb(255, 255, 255);
+  border-radius: 1rem;
+}
+
+.wrapper-future-imperfect {
+  background-color: rgb(236, 175, 43);
+  color: rgb(255, 255, 255);
+  border-radius: 1rem;
+}
+
+.wrapper-imperative {
+  background-color: rgb(255, 0, 0);
+  color: rgb(255, 255, 255);
+  border-radius: 1rem;
+}
+
+.translation {
+  display: grid;
+  grid-template-areas:
+    'image textTranslate  translateButton   translatedText .'
+    'notes notes notes notes notes';
+
+  grid-template-rows: auto auto;
+  grid-template-columns: 6fr 10fr 6fr 10fr 1rem;
+  margin-top: 2rem;
+}
+
+.card-button-wrapper {
+  display: grid;
+  margin: 0 5px;
+  place-content: center;
+}
+
+.card-image-notes {
+  padding: 1rem 0rem;
+}
+
+.card-button-wrapper {
+  display: grid;
+  grid-area: image;
+  place-content: center;
+  margin: 5px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+.translation-button {
+  display: grid;
+  margin: 10px;
+}
+
+.text-to-translate {
+  display: grid;
+  grid-area: textTranslate;
+}
+
+.translated-text {
+  display: grid;
+  grid-area: translatedText;
+}
+
+.user-notes {
+  display: grid;
+  grid-area: notes;
+  min-height: 10rem;
+  padding: 12px 20px;
+  margin: 1rem;
+  box-sizing: border-box;
+  resize: none;
+
+  color: rgb(45, 45, 45);
+  border: 1px solid rgb(1, 1, 1);
+  border-radius: 4px;
+  background-color: #f9f9fa;
+  resize: none;
+  font-family: 'work sans';
+  font-weight: 600;
+}
+
+.translation-radio-buttons {
+  display: grid;
+  grid-area: translateButton;
+  place-content: center;
+  margin: 0 0.2rem;
+  padding: 1rem;
+  border: 1px solid rgb(1, 1, 1);
+  border-radius: 4px;
+}
+
+.text-to-translate textarea,
+.translated-text textarea {
+  color: rgb(45, 45, 45);
+  padding: 0.4rem;
+  border: 1px solid rgb(1, 1, 1);
+  border-radius: 4px;
+  background-color: #f9f9fa;
+  resize: none;
+  font-family: 'work sans';
+  font-weight: 600;
+}
+
+.spinner {
+  display: grid;
+  place-content: center;
+  height: 1.2rem;
+}
+
+.voice-player-and-edit-button {
+  display: grid;
+  grid-template-areas:
+    'editButton '
+    'voicePlayer';
+  grid-template-columns: 1fr;
+  place-content: center;
+}
+
+.voice-player {
+  display: grid;
+  grid-area: voicePlayer;
+}
+
+.edit-notes-button {
+  display: grid;
+  grid-area: editButton;
+  margin: 1rem;
+  place-content: center;
+}
+
+@media screen and (max-width: 750px) {
+  .translation {
+    display: grid;
+    grid-template-areas:
+      '. image image image . '
+      '. translateButton translateButton translateButton . '
+      ' textTranslate textTranslate . translatedText translatedText '
+      'notes notes notes notes notes';
+
+    grid-template-rows: auto auto auto auto;
+    grid-template-columns: 0.5rem 10fr 1rem 10fr 0.5rem;
+  }
+
+  .card-button-wrapper {
+    display: grid;
+    grid-area: image;
+  }
+
+  .translation-radio-buttons {
+    display: grid;
+    grid-area: translateButton;
+    grid-auto-flow: column;
+    align-items: center;
+    padding: 0;
+    border: none;
+  }
+
+  .text-to-translate {
+    display: grid;
+    grid-area: textTranslate;
+    margin-left: 1rem;
+    min-height: 10rem;
+  }
+
+  .translated-text {
+    display: grid;
+    grid-area: translatedText;
+    margin-right: 1rem;
+  }
+
+  .user-notes {
+    display: grid;
+    grid-area: notes;
+  }
+}
+
+@media screen and (max-width: 700px) {
+  .card-button-wrapper {
+    margin-top: 3.5rem;
+  }
+
+  .polish-word-list {
+    place-content: end;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .translation {
+    display: grid;
+    grid-template-areas:
+      '. image image image . '
+      '. translateButton translateButton translateButton . '
+      '. textTranslate textTranslate textTranslate .'
+      '. translatedText translatedText translatedText .'
+      '. notes notes notes .';
+
+    grid-template-rows: auto auto auto auto auto;
+    grid-template-columns: 0.5rem 10fr 1rem 10fr 0.5rem;
+  }
+
+  .card-button-wrapper {
+    display: grid;
+    grid-area: image;
+  }
+
+  .translation-radio-buttons {
+    display: grid;
+    grid-area: translateButton;
+  }
+
+  .text-to-translate {
+    display: grid;
+    grid-area: textTranslate;
+    min-height: 10rem;
+    margin: 1rem;
+  }
+
+  .translated-text {
+    display: grid;
+    grid-area: translatedText;
+    min-height: 10rem;
+    margin: 1rem;
+  }
+
+  .user-notes {
+    display: grid;
+    grid-area: notes;
+  }
+
+  .polish-word-list {
+    grid-template-columns: repeat(2, 10rem);
+    place-content: center;
+  }
+}
+
+@media screen and (max-width: 530px) {
+  .user-notes-input {
+    margin-top: 6rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .polish-word-list {
+    place-content: end;
+  }
+
+  li {
+    margin-left: 2rem;
+  }
+}
+
+@media screen and (max-width: 350px) {
+  li:nth-child(odd) {
+    margin-left: 2.5rem;
+  }
+
+  li:nth-child(even) {
+    margin-left: 2.6rem;
+  }
+}

@@ -1,0 +1,32 @@
+.noun-translate-wrapper {
+  display: grid;
+  grid-template-areas:
+    'toTranslate'
+    'button'
+    'translated';
+}
+
+.noun-text-to-translate {
+  display: grid;
+  grid-area: toTranslate;
+}
+
+.noun-translation-button {
+  display: grid;
+  grid-auto-flow: column;
+  place-content: center;
+  grid-area: button;
+
+  padding-top: 1rem;
+}
+
+.noun-translated-text {
+  display: grid;
+  grid-area: translated;
+}
+
+@media screen and (max-width: 600px) {
+  .noun-translation-button {
+    grid-auto-flow: row;
+  }
+}

@@ -1,0 +1,165 @@
+.hero-container {
+  display: grid;
+  place-content: center;
+  grid-template-areas:
+    'heading heading'
+    'video intro';
+  background: url('../../../public/images/krakow_01.jpg');
+  height: calc(100vh - 7rem);
+  width: 100%;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  background-position: 0%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  display: grid;
+  grid-area: heading;
+  place-content: center;
+  font-size: 4rem;
+  color: rgb(221, 240, 255);
+  font-weight: 300;
+  margin: 0;
+  text-align: center;
+}
+
+.hero-main {
+  display: grid;
+  grid-area: intro;
+  color: white;
+  width: 26rem;
+  height: 11rem;
+  background-color: rgba(31, 138, 181, 0.523);
+  margin: 1rem;
+  padding: 2rem;
+  border-radius: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+
+  margin-top: 3.4rem;
+}
+
+.hero-main ul {
+  display: block;
+}
+
+.video {
+  display: grid;
+  grid-area: video;
+  width: 30rem;
+}
+
+@media screen and (max-width: 1100px) {
+  h1 {
+    font-size: 4rem;
+  }
+
+  main {
+    font-size: 1rem;
+  }
+
+  .video {
+    margin-left: 4rem;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .hero-container {
+    display: grid;
+    min-height: 50rem;
+    grid-template-areas:
+      'heading heading'
+      'intro intro'
+      'video video';
+  }
+
+  h1 {
+    grid-area: heading;
+    font-size: 3rem;
+    margin-top: -8rem;
+  }
+
+  main {
+    grid-area: intro;
+    font-size: 1.2rem;
+  }
+
+  .video {
+    display: grid;
+    grid-area: video;
+    margin: auto;
+    width: 24rem;
+  }
+}
+
+@media screen and (max-width: 670px) {
+  h1 {
+    font-size: 2rem;
+    height: auto;
+    margin-top: -2rem;
+  }
+
+  main {
+    font-size: 1rem;
+    height: 4rem;
+    margin: 0rem;
+  }
+
+  .video {
+    width: 26rem;
+    padding-bottom: 2rem;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 520px) {
+  h1 {
+    font-size: 2rem;
+    margin-top: -20rem;
+  }
+
+  .hero-main {
+    place-content: center;
+    font-size: 0.9rem;
+    height: 6rem;
+    width: 18rem;
+
+    margin-top: -6rem;
+  }
+
+  .video {
+    width: 22rem;
+    margin-top: 2rem;
+    margin: auto;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .hero-container {
+    min-height: 40rem;
+  }
+
+  h1 {
+    font-size: 1.6rem;
+    height: 2.2rem;
+    margin-top: -9rem;
+  }
+
+  .hero-main {
+    place-content: center;
+    font-size: 0.8rem;
+    height: 5rem;
+    width: 14rem;
+  }
+
+  .hero-main ul {
+    margin-left: -5rem;
+  }
+
+  .video {
+    width: 18rem;
+
+    margin: auto;
+  }
+}

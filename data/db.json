@@ -1,0 +1,1620 @@
+{
+  "position": {
+    "column_A": {
+      "name": "Nowe słowa",
+      "items": [
+        {
+          "id": "c1c960e7-aff8-4bbb-b244-20dc2982d7df",
+          "past": {
+            "past_ja_fem": "kłóciłam",
+            "past_my_fem": "kłóciłyśmy",
+            "past_ty_fem": "kłóciłaś",
+            "past_wy_fem": "kłóciłyście",
+            "past_ja_masc": "kłóciłem",
+            "past_my_masc": "kłóciliśmy",
+            "past_on_masc": "kłócił",
+            "past_ona_fem": "kłóciła",
+            "past_one_fem": "kłóciły",
+            "past_ty_masc": "kłóciłeś",
+            "past_wy_masc": "kłóciliście",
+            "past_oni_masc": "kłócili"
+          },
+          "notes": "Nie lubię kiedy ja i moja kotka kłócimy się o moje ulubione miejsce na łóżku. Moje ulubione łóżko jest w kącie, gdzie moja kotka lubi spać.\nProszę nie kłóćcie się o Adama. Nie lubię kiedy w żadnym pubie nie ma kobiet,  i kiedy w pubie jest głośno\nTo bardzo hałaśliwy pub. Wolę cichą restaurację lub kawiarnię.   ",
+          "present": {
+            "present_ja": "kłócę się o",
+            "present_my": "kłócimy się o",
+            "present_ty": "kłócisz się o",
+            "present_wy": "kłócicie się o",
+            "present_oni_one": "kłócą się o",
+            "present_on_ona_ono": "kłóci się o"
+          },
+          "gram_case": {
+            "case": "Miejscownik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę kłóciła",
+            "future_fem_my": "będziemy kłóciły",
+            "future_fem_ty": "będziesz kłóciła",
+            "future_fem_wy": "będziecie kłóciły",
+            "future_fem_ona": "będzie kłóciła",
+            "future_fem_one": "będą kłóciły"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę kłócić",
+            "imp_future_my": "będziemy kłócić",
+            "imp_future_ty": "będziesz kłócić",
+            "imp_future_wy": "będziecie kłócić",
+            "imp_future_oni_one": "będą kłócić",
+            "imp_future_on_ona_ono": "będzie kłócić"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "kłoćmy",
+            "imperative_ty": "kłóć",
+            "imperative_wy": "kłóćcie",
+            "imperative_oni": "niech kłócą",
+            "imperative_on_ona_oni": "niech kłóci"
+          },
+          "word_image": {
+            "image_url": "https://as2.ftcdn.net/v2/jpg/02/61/76/81/1000_F_261768131_oJxLLBPX3RTuJEMAvwD0yKm2YxtX7iZm.jpg",
+            "polish_word": "kłócić się o",
+            "english_word": "To argue"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę kłócił",
+            "future_masc_my": "będziemy kłócili",
+            "future_masc_on": "będzie kłócił",
+            "future_masc_ty": "będziesz kłócił",
+            "future_masc_wy": "będziecie kłócili",
+            "future_masc_oni": "będą kłócili"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "kłóciłabym",
+            "conditional_feminine_my": "kłóciłybiśmy",
+            "conditional_feminine_ty": "kłóciłabyś",
+            "conditional_feminine_wy": "kłóciłybiście",
+            "conditional_feminine_ona": "kłóciłaby",
+            "conditional_feminine_one": "kłóciłyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "kłóciłbym",
+            "conditional_masculine_my": "kłócilibyśmy",
+            "conditional_masculine_on": "kłóciłby",
+            "conditional_masculine_ty": "kłóciłbyś",
+            "conditional_masculine_wy": "kłócilibyście",
+            "conditional_masculine_oni": "kłóciliby"
+          }
+        }
+      ]
+    },
+    "column_B": {
+      "name": "Przeszły",
+      "items": [
+        {
+          "id": "06f6c9b3-ef54-4f22-b2ff-6f25f1cee06f",
+          "past": {
+            "past_ja_fem": "obcinałam",
+            "past_my_fem": "obcinałyśmy",
+            "past_ty_fem": "obcinałaś",
+            "past_wy_fem": "obcinałyście",
+            "past_ja_masc": "obcinałem",
+            "past_my_masc": "obcinaliśmy",
+            "past_on_masc": "obcinał",
+            "past_ona_fem": "obcinała",
+            "past_one_fem": "obcinały",
+            "past_ty_masc": "obcinałeś",
+            "past_wy_masc": "obcinaliście",
+            "past_oni_masc": "obcinali"
+          },
+          "notes": "Proszę obciąć mi włosy. Obcięła mi włosy. Zimno mi w głowie od krótkich włosów, dlatego mam na sobie kurtkę z kapturem.\nRano byłem u fryzjera. Bardzo krótko ścięła mi włosy. W salonie fryzjerskim pracowały dwie kobiety. Jedne kobiety obcinały mi włosy, inne sprzątały po nich.\nPo obcięciu włosów włosy były na całej podłodze i krześle. Kiedy skończyła sprzątać, podłoga i krzesło były czyste.",
+          "present": {
+            "present_ja": "obcinam",
+            "present_my": "obcinamy",
+            "present_ty": "obcinasz",
+            "present_wy": "obcinacie",
+            "present_oni_one": "obcinają",
+            "present_on_ona_ono": "obcina"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Dokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę obcinała",
+            "future_fem_my": "będziemy obcinały",
+            "future_fem_ty": "będziesz obcinała",
+            "future_fem_wy": "będziecie obcinały",
+            "future_fem_ona": "będzie obcinała",
+            "future_fem_one": "będą obcinały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę obcinać",
+            "imp_future_my": "będziemy obcinać",
+            "imp_future_ty": "będziesz obcinać",
+            "imp_future_wy": "będziecie obcinać",
+            "imp_future_oni_one": "będą obcinać",
+            "imp_future_on_ona_ono": "będzie obcinać"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "obcinajmy",
+            "imperative_ty": "obcinaj",
+            "imperative_wy": "obcinajcie",
+            "imperative_oni": "niech obcinają",
+            "imperative_on_ona_oni": "niech obcina"
+          },
+          "word_image": {
+            "image_url": "https://www.shutterstock.com/image-vector/cute-girl-hairdresser-hair-dryer-260nw-228880234.jpg",
+            "polish_word": "obcinać",
+            "english_word": "To cut (hair)"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę obcinał",
+            "future_masc_my": "będziemy obcinali",
+            "future_masc_on": "będzie obcinał",
+            "future_masc_ty": "będziesz obcinał",
+            "future_masc_wy": "będziecie obcinali",
+            "future_masc_oni": "będą obcinali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "obcinałabym",
+            "conditional_feminine_my": "obcinałybyśmy",
+            "conditional_feminine_ty": "obcinałabyś",
+            "conditional_feminine_wy": "obcinałybyście",
+            "conditional_feminine_ona": "obcinałaby",
+            "conditional_feminine_one": "obcinałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "obcinałbym",
+            "conditional_masculine_my": "obcinalibyśmy",
+            "conditional_masculine_on": "obcinałby",
+            "conditional_masculine_ty": "obcinałbyś",
+            "conditional_masculine_wy": "obcinalibyście",
+            "conditional_masculine_oni": "obcinaliby"
+          }
+        },
+        {
+          "id": "d509237d-6e00-4da9-ae33-80fcd41c2485",
+          "past": {
+            "past_ja_fem": "tworzyłam",
+            "past_my_fem": "tworzyłyśmy",
+            "past_ty_fem": "tworzyłaś",
+            "past_wy_fem": "tworzyłyście",
+            "past_ja_masc": "tworzyłem",
+            "past_my_masc": "tworzyliśmy",
+            "past_on_masc": "tworzył",
+            "past_ona_fem": "tworzyły",
+            "past_one_fem": "tworzyły",
+            "past_ty_masc": "tworzyłeś",
+            "past_wy_masc": "tworzyliście",
+            "past_oni_masc": "tworzyli"
+          },
+          "notes": "Uwielbiam tworzyć nowe i ekscytujące narzędzia, które pomogą mi w nauce języka polskiego.\nUwielbiam tworzyć nowe rzeczy za pomocą React.\nBędę tworzył więcej aplikacji React. Hello\n\nProszę przetłumaczyć na język angielski.\nUwielbiam tworzyć aplikacje. Wczoraj stworzyłem tę aplikację.\nKocham Polskę ",
+          "present": {
+            "present_ja": "tworzę",
+            "present_my": "tworyzmy",
+            "present_ty": "tworzysz",
+            "present_wy": "tworzycie",
+            "present_oni_one": "tworzą",
+            "present_on_ona_ono": "tworzy"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Dokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę tworzyła",
+            "future_fem_my": "będziemy tworzyły",
+            "future_fem_ty": "będziesz tworzyła",
+            "future_fem_wy": "będziecie tworzyły",
+            "future_fem_ona": "będzie tworzyła",
+            "future_fem_one": "będą tworzyły"
+          },
+          "imp_future": {
+            "imp_future_ja": "będą tworzyć",
+            "imp_future_my": "będziemy tworzyć",
+            "imp_future_ty": "będziesz tworzyć",
+            "imp_future_wy": "będziecie tworzyć",
+            "imp_future_oni_one": "będą tworzyć",
+            "imp_future_on_ona_ono": "będzie tworzyć"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "twórzmy",
+            "imperative_ty": "twórz",
+            "imperative_wy": "twórzcie",
+            "imperative_oni": "niech tworzą",
+            "imperative_on_ona_oni": "niech tworzy"
+          },
+          "word_image": {
+            "image_url": "https://www.cqu.edu.au/__data/assets/image/0022/146407/create-concept.jpg",
+            "polish_word": "tworzyć",
+            "english_word": "To create"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę tworzył",
+            "future_masc_my": "będziemy tworzyli",
+            "future_masc_on": "będzie tworzył",
+            "future_masc_ty": "będziesz tworzył",
+            "future_masc_wy": "będziecie tworzyli",
+            "future_masc_oni": "będą tworzyli"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "tworzyłabym",
+            "conditional_feminine_my": "tworzyłybyśmy",
+            "conditional_feminine_ty": "tworzyłabyś",
+            "conditional_feminine_wy": "tworzyłybyście",
+            "conditional_feminine_ona": "tworzyłaby",
+            "conditional_feminine_one": "tworzyłyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "tworzyłbym",
+            "conditional_masculine_my": "tworzylibyśmy",
+            "conditional_masculine_on": "tworzyłby",
+            "conditional_masculine_ty": "tworzyłbyś",
+            "conditional_masculine_wy": "tworzylibyście",
+            "conditional_masculine_oni": "tworzyliby"
+          }
+        },
+        {
+          "id": "8d229a59-92ac-466f-bb2c-92897bbea289",
+          "past": {
+            "past_ja_fem": "myślałam",
+            "past_my_fem": "myślałyśmy",
+            "past_ty_fem": "myślałaś",
+            "past_wy_fem": "myślałyście",
+            "past_ja_masc": "myślałem",
+            "past_my_masc": "myśleliśmy",
+            "past_on_masc": "myślał",
+            "past_ona_fem": "myślała",
+            "past_one_fem": "myślały",
+            "past_ty_masc": "myślałeś",
+            "past_wy_masc": "myśleliście",
+            "past_oni_masc": "myśleli"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "myślę",
+            "present_my": "myślimy",
+            "present_ty": "myślisz",
+            "present_wy": "myślicie",
+            "present_oni_one": "myślą",
+            "present_on_ona_ono": "myśli"
+          },
+          "gram_case": {
+            "case": "Miejscownik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę myślała",
+            "future_fem_my": "będziemy myślały",
+            "future_fem_ty": "będziesz myślała",
+            "future_fem_wy": "będziecie myślały",
+            "future_fem_ona": "będzie myślała",
+            "future_fem_one": "będą myślały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę myśleć",
+            "imp_future_my": "będziemy myśleć",
+            "imp_future_ty": "będziesz myśleć",
+            "imp_future_wy": "będziecie myśleć",
+            "imp_future_oni_one": "będą myśleć",
+            "imp_future_on_ona_ono": "będzie myśleć"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "myślmy",
+            "imperative_ty": "myśl",
+            "imperative_wy": "myślcie",
+            "imperative_oni": "niech myślą",
+            "imperative_on_ona_oni": "niech myśli"
+          },
+          "word_image": {
+            "image_url": "https://thumbs.dreamstime.com/z/businessman-thinking-gesturing-clipart-picture-cartoon-character-89089784.jpg",
+            "polish_word": "myśleć o",
+            "english_word": "To think"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę ",
+            "future_masc_my": "będziemy ",
+            "future_masc_on": "będzie ",
+            "future_masc_ty": "będziesz ",
+            "future_masc_wy": "będziecie ",
+            "future_masc_oni": "będą "
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "myślałabym",
+            "conditional_feminine_my": "myślałybyśmy",
+            "conditional_feminine_ty": "myślałabyś",
+            "conditional_feminine_wy": "myślałybyście",
+            "conditional_feminine_ona": "myślałaby",
+            "conditional_feminine_one": "myślałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "myślałbym",
+            "conditional_masculine_my": "myślelibyśmy",
+            "conditional_masculine_on": "myślałby",
+            "conditional_masculine_ty": "myślałbyś",
+            "conditional_masculine_wy": "myślelibyście",
+            "conditional_masculine_oni": "myśleliby"
+          }
+        },
+        {
+          "id": "4cdf974e-2372-4705-a5f5-a2cfa50e9407",
+          "past": {
+            "past_ja_fem": "strzelałam",
+            "past_my_fem": "strzelałyśmy",
+            "past_ty_fem": "strzelałasz",
+            "past_wy_fem": "strzelałyście",
+            "past_ja_masc": "strzelałem",
+            "past_my_masc": "strzelaliśmy",
+            "past_on_masc": "strzelał",
+            "past_ona_fem": "strzelała",
+            "past_one_fem": "strzelały",
+            "past_ty_masc": "strzelałeś",
+            "past_wy_masc": "strzelaliście",
+            "past_oni_masc": "strzelali"
+          },
+          "notes": "Czy słyszałeś o sześciolatku, który został aresztowany za zastrzelenie swojego nauczyciela w Stanach Zjednoczonych Ameryki.\nCzy byłeś na strzelnicy, mój nauczyciel polskiego powiedział, że był na strzelnicy w Warszawie, przygotowując się do rosyjskiej inwazji. Kiedy Rosjanie najechali czołgami, to był zły dzień.\nAby strzelać",
+          "present": {
+            "present_ja": "strzelam",
+            "present_my": "strzelamy",
+            "present_ty": "strzelasz",
+            "present_wy": "strzelacie",
+            "present_oni_one": "strzelamją",
+            "present_on_ona_ono": "strzela"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę strzelała",
+            "future_fem_my": "będziemy strzelały",
+            "future_fem_ty": "będziesz strzelała",
+            "future_fem_wy": "będziecie strzelały",
+            "future_fem_ona": "będzie strzelała",
+            "future_fem_one": "będą strzelały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę strzelać",
+            "imp_future_my": "będziemy strzelać",
+            "imp_future_ty": "będziesz strzelać",
+            "imp_future_wy": "będziecie strzelać",
+            "imp_future_oni_one": "będą strzelać",
+            "imp_future_on_ona_ono": "będzie strzelać"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "strzelajmy",
+            "imperative_ty": "strzelaj",
+            "imperative_wy": "strzelajcie",
+            "imperative_oni": "niech strzelają",
+            "imperative_on_ona_oni": "niech strzela"
+          },
+          "word_image": {
+            "image_url": "https://graphicriver.img.customer.envatousercontent.com/files/371641388/Bear+Robber.jpg?auto=compress%2Cformat&fit=crop&crop=top&w=590&h=590&s=9439ad3b255e99922f8bc1c348f0b779",
+            "polish_word": "strzelać",
+            "english_word": "To shoot"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę strzelał",
+            "future_masc_my": "będziemy strzelał",
+            "future_masc_on": "będzie strzelał",
+            "future_masc_ty": "będziesz strzelał",
+            "future_masc_wy": "będziecie strzelał",
+            "future_masc_oni": "będą strzelał"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "strzelałabym",
+            "conditional_feminine_my": "strzelałybyśmy",
+            "conditional_feminine_ty": "strzelałabyś",
+            "conditional_feminine_wy": "strzelałybyście",
+            "conditional_feminine_ona": "strzelałaby",
+            "conditional_feminine_one": "strzelałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "strzelałbym",
+            "conditional_masculine_my": "strzelalibyśmy",
+            "conditional_masculine_on": "strzelałby",
+            "conditional_masculine_ty": "strzelałbyś",
+            "conditional_masculine_wy": "strzelalibyście",
+            "conditional_masculine_oni": "strzelaliby"
+          }
+        }
+      ]
+    },
+    "column_C": {
+      "name": "Przyszły",
+      "items": [
+        {
+          "id": "a93f58a7-d87f-44dd-8d10-aeb2f28730f9",
+          "past": {
+            "past_ja_fem": "marzyłam",
+            "past_my_fem": "marzyłyśmy",
+            "past_ty_fem": "marzyłaś",
+            "past_wy_fem": "marzyłyście",
+            "past_ja_masc": "marzyłem",
+            "past_my_masc": "marzyliśmy",
+            "past_on_masc": "marzył",
+            "past_ona_fem": "marzyła",
+            "past_one_fem": "marzyły",
+            "past_ty_masc": "marzyłeś",
+            "past_wy_masc": "marzyliście",
+            "past_oni_masc": "marzyli"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "marzę",
+            "present_my": "marzyzmy",
+            "present_ty": "marzysz",
+            "present_wy": "marzycie",
+            "present_oni_one": "marzą",
+            "present_on_ona_ono": "marzy"
+          },
+          "gram_case": {
+            "case": "Miejscownik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę marzyła",
+            "future_fem_my": "będziemy marzyły",
+            "future_fem_ty": "będziesz marzyła",
+            "future_fem_wy": "będziecie marzyły",
+            "future_fem_ona": "będzie marzyła",
+            "future_fem_one": "będą marzyły"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę marzyć",
+            "imp_future_my": "będziemy marzyć",
+            "imp_future_ty": "będziesz marzyć",
+            "imp_future_wy": "będziecie marzyć",
+            "imp_future_oni_one": "będą marzyć",
+            "imp_future_on_ona_ono": "będzie marzyć"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "marzmy",
+            "imperative_ty": "marz",
+            "imperative_wy": "marzcie",
+            "imperative_oni": "niech marzą",
+            "imperative_on_ona_oni": "niech marzy"
+          },
+          "word_image": {
+            "image_url": "https://img.freepik.com/premium-vector/baby-dreams-sleeping-children-dreaming-clouds-vector-cartoon-illustrations-sleep-baby-dream-cartoon-childhood-sleep-cloud_80590-11061.jpg?w=2000",
+            "polish_word": "marzyć",
+            "english_word": "To dream"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę marzył",
+            "future_masc_my": "będziemy marzyli",
+            "future_masc_on": "będzie marzył",
+            "future_masc_ty": "będziesz marzył",
+            "future_masc_wy": "będziecie marzyli",
+            "future_masc_oni": "będą marzyli"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "marzyłabym",
+            "conditional_feminine_my": "marzyłybyśmy",
+            "conditional_feminine_ty": "marzyłabyś",
+            "conditional_feminine_wy": "marzyłybyście",
+            "conditional_feminine_ona": "marzyłaby",
+            "conditional_feminine_one": "marzyłyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "marzyłbym",
+            "conditional_masculine_my": "marzylibyśmy",
+            "conditional_masculine_on": "marzyłby",
+            "conditional_masculine_ty": "marzyłbyś",
+            "conditional_masculine_wy": "marzylibyście",
+            "conditional_masculine_oni": "marzyliby"
+          }
+        }
+      ]
+    },
+    "column_D": {
+      "name": "Stare słowa",
+      "items": [
+        {
+          "id": "76ff3352-e572-4468-9f1a-649390b19dcf",
+          "past": {
+            "past_ja_fem": "używałam",
+            "past_my_fem": "używałyśmy",
+            "past_ty_fem": "używałaś",
+            "past_wy_fem": "używałyście",
+            "past_ja_masc": "używałem",
+            "past_my_masc": "używaliśmy",
+            "past_on_masc": "używał",
+            "past_ona_fem": "używała",
+            "past_one_fem": "używały",
+            "past_ty_masc": "używałeś",
+            "past_wy_masc": "używaliście",
+            "past_oni_masc": "używali"
+          },
+          "notes": "Nie zgadzam się, moja Niuńcia kładzie się jak kula na podłodze jak się ubieram , mizia się koło nóg chce jeszcze więcej głaskania. A jak tylko wchodze do domu spowrotem to biegnie jak małe dziecko i od razu na rączki i się wtula.\nMyślę, że muszę dziś jechać własnym samochodem do miasta.\nUwielbiam tworzyć aplikacje. I love.\nWitam\n",
+          "present": {
+            "present_ja": "używam  ",
+            "present_my": "używamy",
+            "present_ty": "używasz",
+            "present_wy": "używacie",
+            "present_oni_one": "używają",
+            "present_on_ona_ono": "używa"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Dokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę używała",
+            "future_fem_my": "będziemy używały",
+            "future_fem_ty": "będziesz używała",
+            "future_fem_wy": "będziecie używały",
+            "future_fem_ona": "będzie używała",
+            "future_fem_one": "będą używały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę używać",
+            "imp_future_my": "będziemy używać",
+            "imp_future_ty": "będziesz używać",
+            "imp_future_wy": "będziecie używać",
+            "imp_future_oni_one": "będą używać",
+            "imp_future_on_ona_ono": "będzie używać"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "(My) używajmy",
+            "imperative_ty": "(Ty) używaj",
+            "imperative_wy": "(Wy) używajcie",
+            "imperative_oni": "(Oni) niech używają",
+            "imperative_on_ona_oni": "(On) niech używa"
+          },
+          "word_image": {
+            "image_url": "https://media.istockphoto.com/vectors/guy-hipster-sits-on-toilet-bowl-with-phone-in-hands-vector-id612244494?s=170667a",
+            "polish_word": "używać",
+            "english_word": "To use"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę używał",
+            "future_masc_my": "będziemy używali",
+            "future_masc_on": "będzie używał",
+            "future_masc_ty": "będziesz używał",
+            "future_masc_wy": "będziecie używali",
+            "future_masc_oni": "będą używali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "używałabym",
+            "conditional_feminine_my": "używałybyśmy",
+            "conditional_feminine_ty": "używałabyś",
+            "conditional_feminine_wy": "używałybyście",
+            "conditional_feminine_ona": "używałaby",
+            "conditional_feminine_one": "używałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "używałbym",
+            "conditional_masculine_my": "używalibyśmy",
+            "conditional_masculine_on": "używałby",
+            "conditional_masculine_ty": "używałbyś",
+            "conditional_masculine_wy": "używalibyście",
+            "conditional_masculine_oni": "używaliby"
+          }
+        },
+        {
+          "id": "1ee573e2-f325-4675-bf65-52348c1bc48f",
+          "past": {
+            "past_ja_fem": "zapomniałam",
+            "past_my_fem": "zapomniałyśmy",
+            "past_ty_fem": "zapomniałaś",
+            "past_wy_fem": "zapomniałyście",
+            "past_ja_masc": "zapomniałem",
+            "past_my_masc": "zapomnieliśmy",
+            "past_on_masc": "zapomniał",
+            "past_ona_fem": "zapomniała",
+            "past_one_fem": "zapomniały",
+            "past_ty_masc": "zapomniałeś",
+            "past_wy_masc": "zapomnieliście",
+            "past_oni_masc": "zapomnieli"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "zapominać",
+            "present_my": "zapominać",
+            "present_ty": "zapominać",
+            "present_wy": "zapominać",
+            "present_oni_one": "zapominać",
+            "present_on_ona_ono": "zapominać"
+          },
+          "gram_case": {
+            "case": "Miejscownik",
+            "color": "#ff2233",
+            "aspect": "Dokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "zapomnę",
+            "future_fem_my": "zapomnimy",
+            "future_fem_ty": "zapomnisz",
+            "future_fem_wy": "zapomnicie",
+            "future_fem_ona": "zapomni",
+            "future_fem_one": "zapomną"
+          },
+          "imp_future": {
+            "imp_future_ja": "*",
+            "imp_future_my": "*",
+            "imp_future_ty": "*",
+            "imp_future_wy": "*",
+            "imp_future_oni_one": "*",
+            "imp_future_on_ona_ono": "*"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "zapomnijmy",
+            "imperative_ty": "zapomnij",
+            "imperative_wy": "zapomnijcie",
+            "imperative_oni": "niech zapomną",
+            "imperative_on_ona_oni": "niech zapomni"
+          },
+          "word_image": {
+            "image_url": "https://www.denofgeek.com/wp-content/uploads/2018/02/homer_doh.jpg?resize=768%2C432",
+            "polish_word": "zapomnieć o",
+            "english_word": "I forgot"
+          },
+          "future_masc": {
+            "future_masc_ja": "zapomnę",
+            "future_masc_my": "zapomnimy",
+            "future_masc_on": "zapomni",
+            "future_masc_ty": "zapomnisz",
+            "future_masc_wy": "zapomnicie",
+            "future_masc_oni": "zapomną"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "zapomniałabym",
+            "conditional_feminine_my": "zapomniałybyśmy",
+            "conditional_feminine_ty": "zapomniałabyś",
+            "conditional_feminine_wy": "zapomniałybyście",
+            "conditional_feminine_ona": "zapomniałaby",
+            "conditional_feminine_one": "zapomniałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "zapomniałbym",
+            "conditional_masculine_my": "zapomnielibyśmy",
+            "conditional_masculine_on": "zapomniałby",
+            "conditional_masculine_ty": "zapomniałbyś",
+            "conditional_masculine_wy": "zapomnielibyście",
+            "conditional_masculine_oni": "zapomnieliby"
+          }
+        },
+        {
+          "id": "bbed9bf7-6453-4c6a-8d61-e20bce3e313a",
+          "past": {
+            "past_ja_fem": "szłam",
+            "past_my_fem": "szłyśmy",
+            "past_ty_fem": "szłaś",
+            "past_wy_fem": "szyście",
+            "past_ja_masc": "szedłem",
+            "past_my_masc": "szliśmy",
+            "past_on_masc": "szedł",
+            "past_ona_fem": "szła",
+            "past_one_fem": "szły",
+            "past_ty_masc": "szedłeś",
+            "past_wy_masc": "szliście",
+            "past_oni_masc": "szli"
+          },
+          "notes": "Dokąd dziś pójdziemy? Myślę, że pójdziemy do sklepu. Why not.\nWczoraj poszedłem do sklepu.\nWczoraj poszła do sklepu. Edit these notes.",
+          "present": {
+            "present_ja": "idę",
+            "present_my": "idziemy",
+            "present_ty": "idiesz",
+            "present_wy": "idziecie",
+            "present_oni_one": "idą",
+            "present_on_ona_ono": "idzie"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę szła",
+            "future_fem_my": "będziemy szły",
+            "future_fem_ty": "będziesz szła",
+            "future_fem_wy": "będziecie szły",
+            "future_fem_ona": "będzie szła",
+            "future_fem_one": "będą szły"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę iść",
+            "imp_future_my": "będziemy iść",
+            "imp_future_ty": "będziesz iść",
+            "imp_future_wy": "będziecie iść",
+            "imp_future_oni_one": "będą iść",
+            "imp_future_on_ona_ono": "będzie iść"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "idźmy",
+            "imperative_ty": "idź",
+            "imperative_wy": "idźcie",
+            "imperative_oni": "niech idą",
+            "imperative_on_ona_oni": "niech idzie"
+          },
+          "word_image": {
+            "image_url": "https://thumbs.dreamstime.com/b/cartoon-illustration-construction-worker-frowning-expression-holding-go-traffic-sign-cartoon-construction-worker-135307416.jpg",
+            "polish_word": "iść",
+            "english_word": "To go"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę szedł",
+            "future_masc_my": "będziemy szli",
+            "future_masc_on": "będzie szedł",
+            "future_masc_ty": "będziesz szedł",
+            "future_masc_wy": "będziecie szli",
+            "future_masc_oni": "będą szli"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "szłabym",
+            "conditional_feminine_my": "szłybyśmy",
+            "conditional_feminine_ty": "szłabyś",
+            "conditional_feminine_wy": "szłybyście",
+            "conditional_feminine_ona": "szłaby",
+            "conditional_feminine_one": "szłyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "szedłbym",
+            "conditional_masculine_my": "szlibyśmy",
+            "conditional_masculine_on": "szedłby",
+            "conditional_masculine_ty": "szedłbyś",
+            "conditional_masculine_wy": "szlibyście",
+            "conditional_masculine_oni": "szliby"
+          }
+        },
+        {
+          "id": "7d7aa7e5-8ac3-477b-867f-9672d0ca5df3",
+          "past": {
+            "past_ja_fem": "trwałam",
+            "past_my_fem": "trwałałyśmy",
+            "past_ty_fem": "trwałaś",
+            "past_wy_fem": "trwałałyście",
+            "past_ja_masc": "trwałem",
+            "past_my_masc": "trawaliśmy",
+            "past_on_masc": "trwał",
+            "past_ona_fem": "trwała",
+            "past_one_fem": "trwałały",
+            "past_ty_masc": "trwałeś",
+            "past_wy_masc": "trwaliście",
+            "past_oni_masc": "trwali"
+          },
+          "notes": "Jak długo może to potrwać?\nBez obawy, ból potrwa tylko chwilę.\nMoje bankructwo potrwałoby 18 miesięcy. \nMój kurs trwał sześć miesięcy. Cieszę się, że to się skończyło, bo nie sądziłem, że wytrzymam.\nAngielski tekst do przetłumaczenia\n\n",
+          "present": {
+            "present_ja": "trwam",
+            "present_my": "trwamy",
+            "present_ty": "trwasz",
+            "present_wy": "trwacie",
+            "present_oni_one": "trwają",
+            "present_on_ona_ono": "trwa"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Dokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę trwała",
+            "future_fem_my": "będziemy trwały",
+            "future_fem_ty": "będziesz trwała",
+            "future_fem_wy": "będziecie trwały",
+            "future_fem_ona": "będzie trwała",
+            "future_fem_one": "będą trwały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę trwać",
+            "imp_future_my": "będziemy trwać",
+            "imp_future_ty": "będziesz trwać",
+            "imp_future_wy": "będziecie trwać",
+            "imp_future_oni_one": " będą trwać",
+            "imp_future_on_ona_ono": "będzie trwać"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "trwajmy",
+            "imperative_ty": "trwaj",
+            "imperative_wy": "trwacie",
+            "imperative_oni": "niech trwają",
+            "imperative_on_ona_oni": "niech trwa"
+          },
+          "word_image": {
+            "image_url": "https://thumbs.dreamstime.com/b/time-control-retro-cartoon-design-running-man-clock-background-schedule-grey-gears-vector-illustration-86568744.jpg",
+            "polish_word": "trwać",
+            "english_word": "To last"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę trwał",
+            "future_masc_my": "będziemy trwali",
+            "future_masc_on": "będzie trwał",
+            "future_masc_ty": "będziesz trwał",
+            "future_masc_wy": "będziecie trwali",
+            "future_masc_oni": "będą trwali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "trwałabym",
+            "conditional_feminine_my": "trwałybyśmy",
+            "conditional_feminine_ty": "trwałabyś",
+            "conditional_feminine_wy": "trwałybyście",
+            "conditional_feminine_ona": "trwałaby",
+            "conditional_feminine_one": "trwałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "trwałbym",
+            "conditional_masculine_my": "trwalibyśmy",
+            "conditional_masculine_on": "trwałby",
+            "conditional_masculine_ty": "trwałbyś",
+            "conditional_masculine_wy": "trwalibyście",
+            "conditional_masculine_oni": "trwaliby"
+          }
+        },
+        {
+          "id": "116c1593-3163-4cb0-b562-fd66dd36e071",
+          "past": {
+            "past_ja_fem": "tańczyłam",
+            "past_my_fem": "tańczyłyśmy",
+            "past_ty_fem": "tanczłaś",
+            "past_wy_fem": "tańczyłyście",
+            "past_ja_masc": "tańczyłem",
+            "past_my_masc": "tańczyliśmy",
+            "past_on_masc": "tańczył",
+            "past_ona_fem": "tańczyła",
+            "past_one_fem": "tańczyły",
+            "past_ty_masc": "tańczyłeś",
+            "past_wy_masc": "tańczyliście",
+            "past_oni_masc": "tańczyli"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "tańczę",
+            "present_my": "tańczymy",
+            "present_ty": "tańczysz",
+            "present_wy": "tańczycie",
+            "present_oni_one": "tańczą",
+            "present_on_ona_ono": "tańczy"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę tańczyła",
+            "future_fem_my": "będziemy tańczyły",
+            "future_fem_ty": "będziesz tańczyła",
+            "future_fem_wy": "będziecie tańczyły",
+            "future_fem_ona": "będzie tańczyła",
+            "future_fem_one": "będą tańczyły"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę tańczyć",
+            "imp_future_my": "będziemy tańczyć",
+            "imp_future_ty": "będziesz tańczyć",
+            "imp_future_wy": "będziecie tańczyć",
+            "imp_future_oni_one": "będą tańczyć",
+            "imp_future_on_ona_ono": "będzie tańczyć"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "tańczmy",
+            "imperative_ty": "tańcz",
+            "imperative_wy": "tańczcie",
+            "imperative_oni": "niech tańczą",
+            "imperative_on_ona_oni": "niech tańczy"
+          },
+          "word_image": {
+            "image_url": "https://elements-cover-images-0.imgix.net/62d985dc-19d4-4872-b65f-3d8df0f33248?fit=max&fm=jpeg&q=80&w=316&s=876f9b4383c5ac517da815c961df833c",
+            "polish_word": "tańczyć",
+            "english_word": "To dance"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę tańczył",
+            "future_masc_my": "będziemy tańczyli",
+            "future_masc_on": "będzie tańczył",
+            "future_masc_ty": "będziesz tańczył",
+            "future_masc_wy": "będziecie tańczyli",
+            "future_masc_oni": "będą tańczyli "
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "tańczyłabym",
+            "conditional_feminine_my": "tańczyłybyśmy",
+            "conditional_feminine_ty": "tańczyłabyś",
+            "conditional_feminine_wy": "tańczyłybyście",
+            "conditional_feminine_ona": "tańczyłaby",
+            "conditional_feminine_one": "tańczyłyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "tańczyłbym",
+            "conditional_masculine_my": "tańczylibiśmy",
+            "conditional_masculine_on": "tańczyłby",
+            "conditional_masculine_ty": "tańczyłbyś",
+            "conditional_masculine_wy": "tańczylibyście",
+            "conditional_masculine_oni": "tanczyliby"
+          }
+        },
+        {
+          "id": "1970fae1-6d44-4261-9213-2a9ef8f01444",
+          "past": {
+            "past_ja_fem": "szczekałam",
+            "past_my_fem": "szczekałyśmy",
+            "past_ty_fem": "szczekałaś",
+            "past_wy_fem": "szczekałyście",
+            "past_ja_masc": "szczekałem",
+            "past_my_masc": "szczekaliśmy",
+            "past_on_masc": "szczekał",
+            "past_ona_fem": "szczekała",
+            "past_one_fem": "szczekały",
+            "past_ty_masc": "szczekałeś",
+            "past_wy_masc": "szczekaliście",
+            "past_oni_masc": "szczekali"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "szczekam",
+            "present_my": "szczekamy",
+            "present_ty": "szczekasz",
+            "present_wy": "szczekacie",
+            "present_oni_one": "szczekają",
+            "present_on_ona_ono": "szczeka"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę szczekała",
+            "future_fem_my": "będziemy szczekały ",
+            "future_fem_ty": "będziesz szczekała",
+            "future_fem_wy": "będziecie szczekały ",
+            "future_fem_ona": "będzie szczekała",
+            "future_fem_one": "będą szczekały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę szczekać",
+            "imp_future_my": "będziemy szczekać ",
+            "imp_future_ty": "będziesz szczekać ",
+            "imp_future_wy": "będziecie szczekać ",
+            "imp_future_oni_one": "będą szczekać ",
+            "imp_future_on_ona_ono": "będzie szczekać "
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "szczekajmy",
+            "imperative_ty": "szczekaj",
+            "imperative_wy": "szczekajcie",
+            "imperative_oni": "niech szczekają",
+            "imperative_on_ona_oni": "niech szczeka"
+          },
+          "word_image": {
+            "image_url": "https://i.pinimg.com/736x/8c/75/90/8c7590ddf6a973cc2a8930765b97d466.jpg",
+            "polish_word": "szczekać ",
+            "english_word": "To bark"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę szczekał",
+            "future_masc_my": "będziemy szczekali",
+            "future_masc_on": "będzie szczekał ",
+            "future_masc_ty": "będziesz szczekał ",
+            "future_masc_wy": "będziecie szczekali",
+            "future_masc_oni": "będą szczekali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "szczekałabym",
+            "conditional_feminine_my": "szczekałybyśmy",
+            "conditional_feminine_ty": "szczekałabyś",
+            "conditional_feminine_wy": "szczekałybyście",
+            "conditional_feminine_ona": "szczekałaby",
+            "conditional_feminine_one": "szczekałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "szczekałbym",
+            "conditional_masculine_my": "szczekalibyśmy",
+            "conditional_masculine_on": "szczekałby",
+            "conditional_masculine_ty": "szczekałbyś",
+            "conditional_masculine_wy": "szczekalibyście",
+            "conditional_masculine_oni": "szczekaliby"
+          }
+        },
+        {
+          "id": "4909d92e-ff69-4c80-bb13-23d2f9788c71",
+          "past": {
+            "past_ja_fem": "sprawdziłam",
+            "past_my_fem": "sprawdziłyśmy",
+            "past_ty_fem": "sprawdziłaś",
+            "past_wy_fem": "sprawdziłyście",
+            "past_ja_masc": "sprawdziłem",
+            "past_my_masc": "sprawdzaliśmy",
+            "past_on_masc": "sprawdził",
+            "past_ona_fem": "sprawdziła",
+            "past_one_fem": "sprawdziły",
+            "past_ty_masc": "sprawdziłeś",
+            "past_wy_masc": "sprawdziliście",
+            "past_oni_masc": "sprawdzili"
+          },
+          "notes": "Uwielbiam tworzyć nowe i ekscytujące aplikacje za pomocą Reacta, zwłaszcza jeśli może mi to pomóc w nauce języka polskiego. Uwielbiam uczyć się języka polskiego, zwłaszcza polskiej gramatyki. Dlatego stworzyłam aplikację, która pomaga mi w nauce koniugacji polskich czasowników.",
+          "present": {
+            "present_ja": "sprawdzę",
+            "present_my": "sprawdzimy",
+            "present_ty": "sprawdzisz",
+            "present_wy": "sprawdzicie",
+            "present_oni_one": "sprawdzą",
+            "present_on_ona_ono": "sprawdzi"
+          },
+          "gram_case": {
+            "case": "Dopełniacz",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "sprawdzę",
+            "future_fem_my": "sprawdzimy",
+            "future_fem_ty": "sprawdzisz",
+            "future_fem_wy": "sprawdzicie",
+            "future_fem_ona": "sprawdzi",
+            "future_fem_one": "sprawdzą"
+          },
+          "imp_future": {
+            "imp_future_ja": "*",
+            "imp_future_my": "*",
+            "imp_future_ty": "*",
+            "imp_future_wy": "*",
+            "imp_future_oni_one": "*",
+            "imp_future_on_ona_ono": "*"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "sprawdźmy",
+            "imperative_ty": "sprawdź",
+            "imperative_wy": "sprawdźcie",
+            "imperative_oni": "niech sprawdzą",
+            "imperative_on_ona_oni": "niech sprawdzi"
+          },
+          "word_image": {
+            "image_url": "https://img.freepik.com/premium-vector/cute-cartoon-character-boy-check-brag_81698-1309.jpg?w=2000",
+            "polish_word": "sprawdzić",
+            "english_word": "To check"
+          },
+          "future_masc": {
+            "future_masc_ja": "sprawdzę",
+            "future_masc_my": "sprawdzimy ",
+            "future_masc_on": "sprawdzi",
+            "future_masc_ty": "sprawdzis",
+            "future_masc_wy": "sprawdzicie ",
+            "future_masc_oni": "sprawdzą "
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "sprawdziłabym",
+            "conditional_feminine_my": "sprawdziłybyśmy",
+            "conditional_feminine_ty": "sprawdziłabyś",
+            "conditional_feminine_wy": "sprawdziłybyście",
+            "conditional_feminine_ona": "sprawdziłaby",
+            "conditional_feminine_one": "sprawdziłyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "sprawdziłbym",
+            "conditional_masculine_my": "sprawdzilibyśmy",
+            "conditional_masculine_on": "sprawdziłby",
+            "conditional_masculine_ty": "sprawdziłbyś",
+            "conditional_masculine_wy": "sprawdzilibyście",
+            "conditional_masculine_oni": "sprawdziliby"
+          }
+        },
+        {
+          "id": "8ea22443-47b9-4128-a195-5e4fe2a18df9",
+          "past": {
+            "past_ja_fem": "",
+            "past_my_fem": "",
+            "past_ty_fem": "",
+            "past_wy_fem": "",
+            "past_ja_masc": "",
+            "past_my_masc": "",
+            "past_on_masc": "",
+            "past_ona_fem": "",
+            "past_one_fem": "",
+            "past_ty_masc": "",
+            "past_wy_masc": "",
+            "past_oni_masc": ""
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "pomogę",
+            "present_my": "pomożemy",
+            "present_ty": "pomożesz",
+            "present_wy": "pomożecie",
+            "present_oni_one": "pomogą",
+            "present_on_ona_ono": "pomoże"
+          },
+          "gram_case": {
+            "case": "Celownik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę ",
+            "future_fem_my": "będziemy ",
+            "future_fem_ty": "będziesz ",
+            "future_fem_wy": "będziecie ",
+            "future_fem_ona": "będzie ",
+            "future_fem_one": "będą "
+          },
+          "imp_future": {
+            "imp_future_ja": "będę ",
+            "imp_future_my": "będziemy ",
+            "imp_future_ty": "będziesz ",
+            "imp_future_wy": "będziecie ",
+            "imp_future_oni_one": "będą ",
+            "imp_future_on_ona_ono": "będzie "
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "",
+            "imperative_ty": "",
+            "imperative_wy": "",
+            "imperative_oni": "",
+            "imperative_on_ona_oni": ""
+          },
+          "word_image": {
+            "image_url": "data:image/jpeg;base64,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",
+            "polish_word": "pomagać",
+            "english_word": "To help"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę ",
+            "future_masc_my": "będziemy ",
+            "future_masc_on": "będzie ",
+            "future_masc_ty": "będziesz ",
+            "future_masc_wy": "będziecie ",
+            "future_masc_oni": "będą "
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "",
+            "conditional_feminine_my": "",
+            "conditional_feminine_ty": "",
+            "conditional_feminine_wy": "",
+            "conditional_feminine_ona": "",
+            "conditional_feminine_one": ""
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "",
+            "conditional_masculine_my": "",
+            "conditional_masculine_on": "",
+            "conditional_masculine_ty": "",
+            "conditional_masculine_wy": "",
+            "conditional_masculine_oni": ""
+          }
+        },
+        {
+          "id": "74e063c6-4a0c-44a3-9e0f-4888bb2ff24b",
+          "past": {
+            "past_ja_fem": "pokazywałam",
+            "past_my_fem": "pokazywałyśmy",
+            "past_ty_fem": "pokazywałaś",
+            "past_wy_fem": "pokazywałyście",
+            "past_ja_masc": "pokazywałem",
+            "past_my_masc": "pokazywaliśmy",
+            "past_on_masc": "pokazywał",
+            "past_ona_fem": "pokazawała",
+            "past_one_fem": "pokazywały",
+            "past_ty_masc": "pokazywałeś",
+            "past_wy_masc": "pokazywaliście",
+            "past_oni_masc": "pokazawali"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "pokazuję",
+            "present_my": "pokazujemy",
+            "present_ty": "pokazujesz",
+            "present_wy": "pokazujecie",
+            "present_oni_one": "pokazują",
+            "present_on_ona_ono": "pokazuje"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę pokazawała",
+            "future_fem_my": "będziemy pokazywały",
+            "future_fem_ty": "będziesz pokazawała",
+            "future_fem_wy": "będziecie pokazywały",
+            "future_fem_ona": "będzie pokazawała",
+            "future_fem_one": "będą pokazywały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę pokazywać",
+            "imp_future_my": "będziemy pokazywać",
+            "imp_future_ty": "będziesz pokazywać",
+            "imp_future_wy": "będziecie pokazywać",
+            "imp_future_oni_one": "będą pokazywać",
+            "imp_future_on_ona_ono": "będzie pokazywać"
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "pokazujmy",
+            "imperative_ty": "pokazuj",
+            "imperative_wy": "pokazucie",
+            "imperative_oni": "niech pokazują",
+            "imperative_on_ona_oni": "niech pokazuje"
+          },
+          "word_image": {
+            "image_url": "https://bubert.com.ua/storage/covers/950.jpeg",
+            "polish_word": "pokazywać",
+            "english_word": "To show"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę pokazywał",
+            "future_masc_my": "będziemy pokazawali",
+            "future_masc_on": "będzie pokazywał",
+            "future_masc_ty": "będziesz pokazywał",
+            "future_masc_wy": "będziecie pokazawali",
+            "future_masc_oni": "będą pokazawali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "pokazywałabym",
+            "conditional_feminine_my": "pokazywałybyśmy",
+            "conditional_feminine_ty": "pokazywałabyś",
+            "conditional_feminine_wy": "pokazywałybyście",
+            "conditional_feminine_ona": "pokazywałaby",
+            "conditional_feminine_one": "pokazywałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "pokazywałbym",
+            "conditional_masculine_my": "pokazywalibyśmy",
+            "conditional_masculine_on": "pokazywałby",
+            "conditional_masculine_ty": "pokazywałbyś",
+            "conditional_masculine_wy": "pokazywalibyście",
+            "conditional_masculine_oni": "pokazywaliby"
+          }
+        },
+        {
+          "id": "6e397d50-f608-4106-ae94-f20153417ac1",
+          "past": {
+            "past_ja_fem": "podróżowałam",
+            "past_my_fem": "podróżowałyśmy",
+            "past_ty_fem": "podróżowałaś",
+            "past_wy_fem": "podróżowałyście",
+            "past_ja_masc": "podróżowałem",
+            "past_my_masc": "podróżowaliśmy",
+            "past_on_masc": "podróżował",
+            "past_ona_fem": "podróżowała",
+            "past_one_fem": "podróżowały",
+            "past_ty_masc": "podróżowałaś",
+            "past_wy_masc": "podróżowaliście",
+            "past_oni_masc": "podróżowali"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "podróżuję",
+            "present_my": "podróżujemy",
+            "present_ty": "podróżujesz",
+            "present_wy": "podróżujecie",
+            "present_oni_one": "podróżują",
+            "present_on_ona_ono": "podróżuje"
+          },
+          "gram_case": {
+            "case": "Miejscownik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę  podróżowała",
+            "future_fem_my": "będziemy podróżowały",
+            "future_fem_ty": "będziesz  podróżowała",
+            "future_fem_wy": "będziecie podróżowały",
+            "future_fem_ona": "będzie podróżowała",
+            "future_fem_one": "będą podróżowały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę podróżować ",
+            "imp_future_my": "będziemy podróżować ",
+            "imp_future_ty": "będziesz podróżować ",
+            "imp_future_wy": "będziecie podróżować ",
+            "imp_future_oni_one": "będą podróżować ",
+            "imp_future_on_ona_ono": "będzie podróżować "
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "podróżujmy",
+            "imperative_ty": "podróżuj",
+            "imperative_wy": "podróżujcie",
+            "imperative_oni": "niech podróżują",
+            "imperative_on_ona_oni": "niech podróżuje"
+          },
+          "word_image": {
+            "image_url": "data:image/jpeg;base64,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",
+            "polish_word": "podróżować po",
+            "english_word": "To travel"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę podróżował",
+            "future_masc_my": "będziemy podróżowali",
+            "future_masc_on": "będzie podróżował",
+            "future_masc_ty": "będziesz podróżował",
+            "future_masc_wy": "będziecie podróżowali ",
+            "future_masc_oni": "będą podróżowali "
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "podróżowałabym",
+            "conditional_feminine_my": "podróżowałybyśmy",
+            "conditional_feminine_ty": "podróżowałabyś",
+            "conditional_feminine_wy": "podróżowałybyście",
+            "conditional_feminine_ona": "podróżowałaby",
+            "conditional_feminine_one": "podróżowałybz"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "podróżowałbym",
+            "conditional_masculine_my": "podróżowalibyśmy",
+            "conditional_masculine_on": "podróżowałby",
+            "conditional_masculine_ty": "podróżowałbyś",
+            "conditional_masculine_wy": "podróżowalibyście",
+            "conditional_masculine_oni": "podróżowaliby"
+          }
+        },
+        {
+          "id": "b399fd48-cbb7-4012-aa61-4088cf8d62d3",
+          "past": {
+            "past_ja_fem": "pamiętałam",
+            "past_my_fem": "pamiętałyśmy",
+            "past_ty_fem": "pamiętałaś",
+            "past_wy_fem": "pamiętałyście",
+            "past_ja_masc": "pamiętałem",
+            "past_my_masc": "pamiętaliśmy",
+            "past_on_masc": "pamiętał",
+            "past_ona_fem": "pamiętała",
+            "past_one_fem": "pamiętały",
+            "past_ty_masc": "pamiętałeś",
+            "past_wy_masc": "pamiętaliście",
+            "past_oni_masc": "pamiętali"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "pamiętam",
+            "present_my": "pamiętamy",
+            "present_ty": "pamiętasz",
+            "present_wy": "pamiętacie",
+            "present_oni_one": "pamiętają",
+            "present_on_ona_ono": "pamięta"
+          },
+          "gram_case": {
+            "case": "Miejscownik",
+            "color": "#ff2233",
+            "aspect": ""
+          },
+          "future_fem": {
+            "future_fem_ja": "będę pamiętała",
+            "future_fem_my": "będziemy pamiętały",
+            "future_fem_ty": "będziesz pamiętała",
+            "future_fem_wy": "będziecie pamiętały",
+            "future_fem_ona": "będzie pamiętała",
+            "future_fem_one": "będą pamiętały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę ",
+            "imp_future_my": "będziemy ",
+            "imp_future_ty": "będziesz ",
+            "imp_future_wy": "będziecie ",
+            "imp_future_oni_one": "będą ",
+            "imp_future_on_ona_ono": "będzie "
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "",
+            "imperative_ty": "",
+            "imperative_wy": "",
+            "imperative_oni": "",
+            "imperative_on_ona_oni": ""
+          },
+          "word_image": {
+            "image_url": "https://www.shutterstock.com/image-illustration/cute-style-young-housewife-260nw-438490936.jpg",
+            "polish_word": "pamiętać o",
+            "english_word": "To remember"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę pamiętał",
+            "future_masc_my": "będziemy pamiętali",
+            "future_masc_on": "będzie pamiętał",
+            "future_masc_ty": "będziesz pamiętał",
+            "future_masc_wy": "będziecie pamiętali",
+            "future_masc_oni": "będą pamiętali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "",
+            "conditional_feminine_my": "",
+            "conditional_feminine_ty": "",
+            "conditional_feminine_wy": "",
+            "conditional_feminine_ona": "",
+            "conditional_feminine_one": ""
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "pamiętałbym",
+            "conditional_masculine_my": "pamiętalibyśmy",
+            "conditional_masculine_on": "pamiętałby",
+            "conditional_masculine_ty": "pamiętałbyś",
+            "conditional_masculine_wy": "pamiętalibyście",
+            "conditional_masculine_oni": "pamiętaliby"
+          }
+        },
+        {
+          "id": "1c813bbc-ebfd-467d-9d6e-75a375c99937",
+          "past": {
+            "past_ja_fem": "ogrzewałam",
+            "past_my_fem": "ogrzewałyśmy",
+            "past_ty_fem": "ogrzewałaś",
+            "past_wy_fem": "ogrzewałyście",
+            "past_ja_masc": "ogrzewałem",
+            "past_my_masc": "ogrzewaliśmy",
+            "past_on_masc": "ogrzewał",
+            "past_ona_fem": "ogrzewała",
+            "past_one_fem": "ogrzewały",
+            "past_ty_masc": "ogrzewałeś",
+            "past_wy_masc": "ogrzewaliście",
+            "past_oni_masc": "ogrzewali"
+          },
+          "notes": "\nProszę ogrzać moje łóżko kocem elektrycznym, zanim wrócę do domu. Edit this.",
+          "present": {
+            "present_ja": "ogrzewam",
+            "present_my": "ogrzewamy",
+            "present_ty": "ogrzewaś",
+            "present_wy": "ogrzewacie",
+            "present_oni_one": "ogrzewają",
+            "present_on_ona_ono": "ogrzewa"
+          },
+          "gram_case": {
+            "case": "Biernik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę ogrzewała",
+            "future_fem_my": "będziemy ogrzewały",
+            "future_fem_ty": "będziesz ogrzewała",
+            "future_fem_wy": "będziecie ogrzewały",
+            "future_fem_ona": "będzie ogrzewała",
+            "future_fem_one": "będą ogrzewały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę ogrzewać ",
+            "imp_future_my": "będziemy ogrzewać ",
+            "imp_future_ty": "będziesz ogrzewać ",
+            "imp_future_wy": "będziecie ogrzewać ",
+            "imp_future_oni_one": "będą ogrzewać ",
+            "imp_future_on_ona_ono": "będzie ogrzewać "
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "ogrzewajmy",
+            "imperative_ty": "ogrzewaj",
+            "imperative_wy": "ogrzewacie",
+            "imperative_oni": "niech ogrzewają",
+            "imperative_on_ona_oni": "niech ogrzewa"
+          },
+          "word_image": {
+            "image_url": "https://www.shutterstock.com/image-vector/vector-illustration-happy-cartoon-dog-260nw-632020691.jpg",
+            "polish_word": "ogrzewać ",
+            "english_word": "To heat"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę ogrzewał",
+            "future_masc_my": "będziemy ogrzewali",
+            "future_masc_on": "będzie ogrzewał",
+            "future_masc_ty": "będziesz ogrzewał",
+            "future_masc_wy": "będziecie ogrzewali",
+            "future_masc_oni": "będą ogrzewali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "ogrzewałabym",
+            "conditional_feminine_my": "ogrzewałabyśmy",
+            "conditional_feminine_ty": "ogrzewałabyś",
+            "conditional_feminine_wy": "ogrzewałabyście",
+            "conditional_feminine_ona": "ogrzewałaby",
+            "conditional_feminine_one": "ogrzewałaby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "ogrzewałbym",
+            "conditional_masculine_my": "ogrzewalibyśmy",
+            "conditional_masculine_on": "ogrzewałby",
+            "conditional_masculine_ty": "ogrzewałbyś",
+            "conditional_masculine_wy": "ogzrewalibyście",
+            "conditional_masculine_oni": "ogrzewaliby"
+          }
+        },
+        {
+          "id": "d8b5f81c-9f28-449c-b85d-56f2833bebf0",
+          "past": {
+            "past_ja_fem": "dyskutowałam",
+            "past_my_fem": "dyskutowałyśmy",
+            "past_ty_fem": "dyskutowałaś",
+            "past_wy_fem": "dyskutowałyście",
+            "past_ja_masc": "dyskutowałem",
+            "past_my_masc": "dyskutowaliśmy",
+            "past_on_masc": "dyskutował",
+            "past_ona_fem": "dyskutowała",
+            "past_one_fem": "dyskutowały",
+            "past_ty_masc": "dyskutowałeś",
+            "past_wy_masc": "dyskutowaliście",
+            "past_oni_masc": "dyskutowali"
+          },
+          "notes": "",
+          "present": {
+            "present_ja": "dyskutuję",
+            "present_my": "dyskutujemy",
+            "present_ty": "dyskutujesz",
+            "present_wy": "dyskutujecie",
+            "present_oni_one": "dyskutują",
+            "present_on_ona_ono": "dyskutuje"
+          },
+          "gram_case": {
+            "case": "Miejscownik",
+            "color": "#ff2233",
+            "aspect": "Niedokonany"
+          },
+          "future_fem": {
+            "future_fem_ja": "będę dyskutowała",
+            "future_fem_my": "będziemy dyskutowały",
+            "future_fem_ty": "będziesz dyskutowała",
+            "future_fem_wy": "będziecie dyskutowały",
+            "future_fem_ona": "będzie dyskutowała",
+            "future_fem_one": "będą dyskutowały"
+          },
+          "imp_future": {
+            "imp_future_ja": "będę dyskutować ",
+            "imp_future_my": "będziemy dyskutować ",
+            "imp_future_ty": "będziesz dyskutować ",
+            "imp_future_wy": "będziecie dyskutować ",
+            "imp_future_oni_one": "będą dyskutować ",
+            "imp_future_on_ona_ono": "będzie dyskutować "
+          },
+          "imperative": {
+            "imperative_ja": "",
+            "imperative_my": "dyskutujmy",
+            "imperative_ty": "dyskutuj",
+            "imperative_wy": "dyskutujcie",
+            "imperative_oni": "niech dyskutują",
+            "imperative_on_ona_oni": "nirch dyskutuje"
+          },
+          "word_image": {
+            "image_url": "https://i.pinimg.com/originals/39/b8/fc/39b8fc365ebdccadc0bb38eefe0527ab.jpg",
+            "polish_word": "dyskutować o",
+            "english_word": "To discuss"
+          },
+          "future_masc": {
+            "future_masc_ja": "będę dyskutował",
+            "future_masc_my": "będziemy dyskutowali",
+            "future_masc_on": "będzie dyskutował",
+            "future_masc_ty": "będziesz dyskutował",
+            "future_masc_wy": "będziecie dyskutowali",
+            "future_masc_oni": "będą dyskutowali"
+          },
+          "conditional_feminine": {
+            "conditional_feminine_ja": "dyskutowałabym",
+            "conditional_feminine_my": "dyskutowałybyśmy",
+            "conditional_feminine_ty": "dyskutowałabyś",
+            "conditional_feminine_wy": "dyskutowałybyście",
+            "conditional_feminine_ona": "dyskutowałaba",
+            "conditional_feminine_one": "dyskutowałyby"
+          },
+          "conditional_masculine": {
+            "conditional_masculine_ja": "dyskutowałbym",
+            "conditional_masculine_my": "dyskutowalibyśmy",
+            "conditional_masculine_on": "dyskutowałby",
+            "conditional_masculine_ty": "dyskutowałbyś",
+            "conditional_masculine_wy": "dyskutowalibyście",
+            "conditional_masculine_oni": "dyskutowaliby"
+          }
+        }
+      ]
+    }
+  }
+}

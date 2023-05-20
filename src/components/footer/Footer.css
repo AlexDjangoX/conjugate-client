@@ -1,0 +1,25 @@
+.footer {
+  display: grid;
+  place-content: center;
+  background: linear-gradient(
+    90deg,
+    rgba(40, 103, 249) 0%,
+    rgb(25, 33, 57) 60%
+  );
+  height: 7rem;
+  color: aliceblue;
+}
+
+.icon-links {
+  display: grid;
+  grid-auto-flow: column;
+  place-content: space-around;
+}
+
+.icon-links > * {
+  margin: 0.4rem;
+}
+
+.paragraph {
+  margin-left: 0.4rem;
+}
