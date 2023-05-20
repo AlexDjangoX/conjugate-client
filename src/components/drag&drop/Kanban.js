@@ -289,21 +289,21 @@ const Kanban = ({ columns, setColumns }) => {
 
   return (
     <>
-      <div className='new-verb-button-wrapper'>
+      <div className="new-verb-button-wrapper">
         {isAuthenticated && (
-          <div className='new-verb-buttons'>
+          <div className="new-verb-buttons">
             <Button
-              buttonStyle='btn--add-new-verb'
-              buttonSize='btn--medium'
+              buttonStyle="btn--add-new-verb"
+              buttonSize="btn--medium"
               onClick={() => setOpen(true)}
             >
               Add Verb
             </Button>
-            <Button buttonStyle='btn--add-new-verb'>
+            <Button buttonStyle="btn--add-new-verb">
               <a
-                href='https://cooljugator.com/pl'
-                target='_blank'
-                rel='noreferrer'
+                href="https://cooljugator.com/pl"
+                target="_blank"
+                rel="noreferrer"
               >
                 Koniugacja
               </a>
@@ -312,7 +312,7 @@ const Kanban = ({ columns, setColumns }) => {
         )}
 
         {!isAuthenticated && (
-          <div className='kanban-log-in-prompt'>
+          <div className="kanban-log-in-prompt">
             <p>Log in for interactive experience</p>
           </div>
         )}
@@ -321,8 +321,8 @@ const Kanban = ({ columns, setColumns }) => {
       <Modal
         open={open}
         onClose={() => setOpen(false)}
-        aria-labelledby='parent-modal-title'
-        aria-describedby='parent-modal-description'
+        aria-labelledby="parent-modal-title"
+        aria-describedby="parent-modal-description"
       >
         <>
           <KanbanForm
@@ -335,19 +335,19 @@ const Kanban = ({ columns, setColumns }) => {
           />
         </>
       </Modal>
-      {isLoading && <Atom size='200' color='#54a8f1' animationDuration='700' />}
-      <div className='kanban-wrapper'>
+      {isLoading && <Atom size="200" color="#54a8f1" animationDuration="700" />}
+      <div className="kanban-wrapper">
         <DragDropContext
           onDragEnd={(result) => onDragEnd(result, columns, setColumns)}
         >
           {Object.entries(columns).map(([columnId, column], index) => {
             return (
-              <div className='kanban-columns' key={uuidv4()}>
+              <div className="kanban-columns" key={uuidv4()}>
                 {(column.name === 'Nowe słowa' ||
                   column.name === 'Przeszły' ||
                   column.name === 'Przyszły' ||
                   column.name === 'Stare słowa') && (
-                  <h2 className='kanban-header'>{column.name}</h2>
+                  <h2 className="kanban-header">{column.name}</h2>
                 )}
 
                 <div style={{ margin: 2 }}>
@@ -355,7 +355,7 @@ const Kanban = ({ columns, setColumns }) => {
                     {(provided, snapshot) => {
                       return (
                         <div
-                          className='kanban-droppable'
+                          className="kanban-droppable"
                           {...provided.droppableProps}
                           ref={provided.innerRef}
                           style={{
@@ -366,12 +366,12 @@ const Kanban = ({ columns, setColumns }) => {
                         >
                           {columnId === 'column_D' && (
                             <>
-                              <div className='kanban-search-input'>
+                              <div className="kanban-search-input">
                                 <input
-                                  id='verb-search'
-                                  type='text'
-                                  name='verb-search'
-                                  placeholder='Search verb'
+                                  id="verb-search"
+                                  type="text"
+                                  name="verb-search"
+                                  placeholder="Search verb"
                                   onChange={sortByUserInput}
                                 />
                               </div>
@@ -388,7 +388,7 @@ const Kanban = ({ columns, setColumns }) => {
                                 {(provided, snapshot) => {
                                   return (
                                     <div
-                                      className='kanban-draggable'
+                                      className="kanban-draggable"
                                       ref={provided.innerRef}
                                       {...provided.draggableProps}
                                       {...provided.dragHandleProps}
@@ -400,9 +400,9 @@ const Kanban = ({ columns, setColumns }) => {
                                         ...provided.draggableProps.style,
                                       }}
                                     >
-                                      <div className='card-item-content'>
+                                      <div className="card-item-content">
                                         <span
-                                          className='card-item-case-aspect'
+                                          className="card-item-case-aspect"
                                           style={{
                                             background: item.gram_case.color,
                                           }}
@@ -411,7 +411,7 @@ const Kanban = ({ columns, setColumns }) => {
                                         </span>
                                         {column.name === 'Stare słowa' && (
                                           <>
-                                            <div className='delete-btn-wrapper'>
+                                            <div className="delete-btn-wrapper">
                                               {!deleteVerb && (
                                                 <Button
                                                   buttonStyle={
@@ -428,12 +428,12 @@ const Kanban = ({ columns, setColumns }) => {
                                               {deleteVerb &&
                                                 verbToDeleteId === item.id && (
                                                   <>
-                                                    <div className='btn-cancel-delete'>
+                                                    <div className="btn-cancel-delete">
                                                       <Button
                                                         onClick={() =>
                                                           setDeleteVerb(false)
                                                         }
-                                                        buttonStyle='btn-cancel-delete'
+                                                        buttonStyle="btn-cancel-delete"
                                                       >
                                                         Cancel
                                                       </Button>
@@ -441,7 +441,7 @@ const Kanban = ({ columns, setColumns }) => {
                                                     <div>
                                                       <Button
                                                         onClick={deleteHandler}
-                                                        buttonStyle='btn-delete-verb'
+                                                        buttonStyle="btn-delete-verb"
                                                       >
                                                         Confirm
                                                       </Button>
@@ -454,10 +454,10 @@ const Kanban = ({ columns, setColumns }) => {
                                         <p>{item.word_image.polish_word}</p>
 
                                         {column.name === 'Stare słowa' && (
-                                          <div className='link-notes-wrapper'>
+                                          <div className="link-notes-wrapper">
                                             <Link
-                                              className='link-notes'
-                                              to='/notatki'
+                                              className="link-notes"
+                                              to="/notatki"
                                               state={{ item }}
                                               style={{ color: 'white' }}
                                             >
@@ -474,7 +474,7 @@ const Kanban = ({ columns, setColumns }) => {
                                         {column.name === 'Nowe słowa' && (
                                           <Button
                                             onClick={() => editHandler(item)}
-                                            buttonStyle='btn-edit-verb'
+                                            buttonStyle="btn-edit-verb"
                                           >
                                             Edit
                                           </Button>

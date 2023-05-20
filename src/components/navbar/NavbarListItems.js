@@ -9,30 +9,32 @@ const NavbarListItems = () => {
 
   return (
     <>
-      <li className='navbar-list-item'>
-        <Link to='/' className='navbar-link'>
+      <li className="navbar-list-item">
+        <Link to="/" className="navbar-link">
           Home
         </Link>
       </li>
 
-      <li className='navbar-list-item'>
-        <Link to={`/profile`} className='navbar-link'>
-          Profile
-        </Link>
-      </li>
+      {user && (
+        <li className="navbar-list-item">
+          <Link to={`/profile`} className="navbar-link">
+            Profile
+          </Link>
+        </li>
+      )}
 
-      <li className='navbar-list-item'>
-        <Link to='/nouns' className='navbar-link'>
+      <li className="navbar-list-item">
+        <Link to="/nouns" className="navbar-link">
           Nouns
         </Link>
       </li>
 
-      <li className='navbar-list-item'>
-        <Link to='/kanban' className='navbar-link'>
+      <li className="navbar-list-item">
+        <Link to="/kanban" className="navbar-link">
           Conjugate
         </Link>
       </li>
-      <li className='navbar-list-item'>
+      <li className="navbar-list-item">
         {!user ? <LoginButton /> : <LogOutButton />}
       </li>
     </>
